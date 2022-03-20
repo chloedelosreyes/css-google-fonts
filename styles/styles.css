@@ -57,7 +57,7 @@ span .font-pair1b{
 /* add your css below this line */
 
 .hero-background {
-  background: url("https://images.pexels.com/photos/234133/pexels-photo-234133.jpeg") no-repeat fixed center;
+  background: url("https://cdn.pixabay.com/photo/2014/10/04/16/55/wooden-cubes-473703_1280.jpg") no-repeat fixed center;
   background-size: cover;
 }
 
@@ -68,15 +68,15 @@ span .font-pair1b{
 }
 
 .first-section-background {
-  background: url("https://images.pexels.com/photos/6249454/pexels-photo-6249454.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/219998/pexels-photo-219998.jpeg") no-repeat fixed bottom;
 }
 
 .second-section-background {
-  background: url("https://reliablepsd.com/wp-content/themes/reliable/images/blog/bg07.jpg") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/1585325/pexels-photo-1585325.jpeg") no-repeat fixed bottom;
 }
 
 .third-section-background {
-  background: url("https://images.pexels.com/photos/1803859/pexels-photo-1803859.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260") no-repeat fixed bottom;
+  background: url("https://images.pexels.com/photos/380337/pexels-photo-380337.jpeg") no-repeat fixed bottom;
 }
 
 .with-background {
@@ -99,8 +99,8 @@ h1 {
 }
 
 h2 {
-  font-size: 35px;
-  font-weight: 200;
+  font-size: 25px;
+  font-weight: 150px;
   line-height: 40px;
 }
 
@@ -135,15 +135,15 @@ article {
 }
 
 .first-article-container {
-  background-color: #e2b400;
+  background-color: #ff9900;
 }
 
 .second-article-container {
-  background-color: #a66746;
+  background-color: #ff6666;
 }
 
 .third-article-container {
-  background-color: #a69991;
+  background-color: #00cc99;
 }
 
 footer {
@@ -151,7 +151,3 @@ footer {
   padding: 20px 0;
   background-color: rgb(0, 0, 0, 0.3);
 }
-
- 
-
-
