@@ -13,6 +13,7 @@ header {
 }
 
 .hero-content {
+  display: none;
   width: 50%;
   text-align: center;
   color: #000;
